@@ -1,2 +1,2 @@
 # LabEolicaControl
- LabView Application for wind turbine DAQ 
+ LabView Application for DAQ characterization of wind turbine generator 
